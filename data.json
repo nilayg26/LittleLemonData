@@ -4,7 +4,7 @@
         "id": 1,
         "title": "Greek Salad",
         "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
-        "price": "250",
+        "price": "260",
         "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
         "category": "starters"
       },
