@@ -40,6 +40,14 @@
         "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
         "category": "starters"
       }
+      {
+        "id": 6,
+        "title": "Campa Cola",
+        "description": "Oven-baked bruschetta stuffed with tomatoes and herbs.",
+        "price": "50",
+        "image": "https://www.jiomart.com/images/product/original/493696011/campa-cola-flavoured-drink-2-l-product-images-o493696011-p599656767-0-202303211559.jpg?im=Resize=(1000,1000)",
+        "category": "drinks"
+      }
     ]
   } 
   
