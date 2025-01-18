@@ -2,27 +2,27 @@
     "menu": [
       {
         "id": 1,
+        "title": "Kadai Paneer",
+        "description": "Traditional homemade Kadai Paneer.",
+        "price": "450",
+        "image": "https://dinedelicious.in/wp-content/uploads/2021/10/Kadai-Paneer-Recipe-20.jpg",
+        "category": "mains"
+      },
+      {
+        "id": 2,
         "title": "Greek Salad",
-        "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
+        "description": "The famous greek salad of crispy lettuce, peppers, olives, our Kanpur.",
         "price": "260",
         "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
         "category": "starters"
       },
       {
-        "id": 2,
-        "title": "Lemon Desert",
-        "description": "Traditional homemade Italian Lemon Ricotta Cake.",
-        "price": "350",
-        "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
-        "category": "desserts"
-      },
-      {
         "id": 3,
-        "title": "Grilled Fish",
-        "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
-        "price": "450",
-        "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
-        "category": "mains"
+        "title": "Ice Cream",
+        "description": "Traditional homemade Kadai Paneer.",
+        "price": "350",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg",
+        "category": "desserts"
       },
       {
         "id": 4,
